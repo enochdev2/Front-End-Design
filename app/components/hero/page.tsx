@@ -13,8 +13,8 @@ const HeroSection = () => {
                     <div className='lg:w-[50%] w-[100%] my-auto z-20'>
                         <div>
                             <div className='mt-5'>
-                                <h1 className='text-[#001049] font-JostM500 xxl:text-[80px] xl:text-[75px] lg:text-[60px] text-[48px] leading-tight lg:w-[700px] md:w-[500px] w-[340px]'>
-                                    Develope your skill without diligence
+                                <h1 className='text-[#001049] font-JostM500 xxl:text-[80px] xl:text-[65px] lg:text-[50px] text-[38px] leading-tight lg:w-[700px] md:w-[500px] w-[340px]'>
+                                    Develope your skill with diligence
                                 </h1>
                             </div>
                             <div className='mt-5'>
